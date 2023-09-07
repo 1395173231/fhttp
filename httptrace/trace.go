@@ -13,9 +13,9 @@ import (
 	"reflect"
 	"time"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/1395173231/poe-openai-proxy/utls"
 
-	"github.com/bogdanfinn/fhttp/internal/nettrace"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal/nettrace"
 )
 
 // unique type to prevent assignment.

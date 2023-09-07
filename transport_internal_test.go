@@ -16,9 +16,9 @@ import (
 	"strings"
 	"testing"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/1395173231/poe-openai-proxy/utls"
 
-	"github.com/bogdanfinn/fhttp/internal"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal"
 )
 
 // Issue 15446: incorrect wrapping of errors when server closes an idle connection.

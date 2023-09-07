@@ -9,7 +9,7 @@ package httputil
 import (
 	"io"
 
-	"github.com/bogdanfinn/fhttp/internal"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal"
 )
 
 // NewChunkedReader returns a new chunkedReader that translates the data read from r

@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/bogdanfinn/fhttp/internal/testenv"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal/testenv"
 )
 
 func TestForeachHeaderElement(t *testing.T) {

@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bogdanfinn/fhttp/httptrace"
+	"github.com/1395173231/poe-openai-proxy/fhttp/httptrace"
 )
 
 // A Header represents the Key-value pairs in an HTTP header.

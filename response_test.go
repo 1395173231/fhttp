@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/bogdanfinn/fhttp/internal"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal"
 )
 
 type respTest struct {

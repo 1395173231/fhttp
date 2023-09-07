@@ -9,8 +9,8 @@ import (
 	"io"
 	"log"
 
-	http "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/httptest"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
+	"github.com/1395173231/poe-openai-proxy/fhttp/httptest"
 )
 
 func ExampleResponseRecorder() {

@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
 
 	"golang.org/x/net/http/httpguts"
 )

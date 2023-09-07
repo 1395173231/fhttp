@@ -9,7 +9,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/bogdanfinn/fhttp/httptrace"
+	"github.com/1395173231/poe-openai-proxy/fhttp/httptrace"
 )
 
 func Example() {

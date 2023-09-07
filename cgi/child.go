@@ -18,9 +18,9 @@ import (
 	"strconv"
 	"strings"
 
-	tls "github.com/bogdanfinn/utls"
+	tls "github.com/1395173231/poe-openai-proxy/utls"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
 )
 
 // Request returns the HTTP request as represented in the current

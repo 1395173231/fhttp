@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
 )
 
 // containsDotFile reports whether name contains a path element starting with a period.

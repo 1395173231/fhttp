@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bogdanfinn/fhttp/internal/race"
+	"github.com/1395173231/poe-openai-proxy/fhttp/internal/race"
 )
 
 var headerWriteTests = []struct {

@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
 )
 
 // drainBody reads all of b to memory and then returns two equivalent

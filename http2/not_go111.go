@@ -10,7 +10,7 @@ package http2
 import (
 	"net/textproto"
 
-	"github.com/bogdanfinn/fhttp/httptrace"
+	"github.com/1395173231/poe-openai-proxy/fhttp/httptrace"
 )
 
 func traceHasWroteHeaderField(trace *httptrace.ClientTrace) bool { return false }

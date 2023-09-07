@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/bogdanfinn/fhttp"
+	. "github.com/1395173231/poe-openai-proxy/fhttp"
 )
 
 var sniffTests = []struct {

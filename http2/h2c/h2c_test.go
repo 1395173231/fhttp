@@ -11,8 +11,8 @@ import (
 	"log"
 	"testing"
 
-	http "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/http2"
+	http "github.com/1395173231/poe-openai-proxy/fhttp"
+	"github.com/1395173231/poe-openai-proxy/fhttp/http2"
 )
 
 func TestSettingsAckSwallowWriter(t *testing.T) {
